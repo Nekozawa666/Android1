@@ -12,12 +12,13 @@
     <string name="button">๋๋Обновить</string>
     <string name="galifrei">Галифрей</string>
     <string name="moon">Восход Луны-5:00</string>
-    <string name="tempr">Темпратура +50</string>
+    <string name="tempr">Темпратура -50</string>
     <string name="press">давление-не забудьте скафандр</string>
     <string name="ticket">Купить билет подальше отсюда</string>
     <string name="text1">Восход Луны 5:00</string>
     <string name="text2">Температура +48</string>
     <string name="text3">Вероятность осадков 90%</string>
     <string name="ticketNew">Купить билет подальше</string>
-    <string name="text4">давление- 12атм</string>
+    <string name="text4">давление 12атм</string>
+    <string name="summer">Купить билет в лето</string>
 </resources>
