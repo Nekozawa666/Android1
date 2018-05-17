@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Android1_1</string>
-    <string name="text_weather">Погода</string>
+    <string name="text_weather">Life Circle Events </string>
+    <string name="onCreate1">- onCreate</string>
+    <string name="onStart">onStart</string>
+    <string name="onRestoreInstanceState">onRestoreInstanceState</string>
+    <string name="onResume">onResume</string>
+    <string name="onPause">onPause</string>
+    <string name="onSaveInstanceState">onSaveInstanceState</string>
+    <string name="onStop">onStop</string>
+    <string name="onDestroy">onDestroy</string>
 </resources>
