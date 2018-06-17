@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Android1_1</string>
+    <string name="app_name">Weather</string>
+    <string name="text_weather">RESULT BACK</string>
+    <string name="onCreate1">- onCreate</string>
+    <string name="onStart">onStart</string>
+    <string name="onRestoreInstanceState">onRestoreInstanceState</string>
+    <string name="onResume">onResume</string>
+    <string name="onPause">onPause</string>
+    <string name="onSaveInstanceState">onSaveInstanceState</string>
+    <string name="onStop">onStop</string>
+    <string name="onDestroy">onDestroy</string>
+    <string name="text1">Восход Луны 5:00</string>
+    <string name="text2">Температура +48</string>
+    <string name="text3">Вероятность осадков 90%</string>
+    <string name="text4">давление 12атм</string>
+    <string name="summer">SUMMER</string>
+    <string name="planet">Galifrei</string>
+    <string name="tweet">Tweet</string>
 </resources>
